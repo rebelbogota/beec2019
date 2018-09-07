@@ -1,12 +1,17 @@
 # Save the Date
 
-## Bogotá Experimental Economics Conference - 2019 Edition
+## Bogotá Experimental Economics Conference - 2019 
+
+Please join us in the Second Edition of BEEC
+
+Call for paper coming (very) soon!
 
 _When?_ January 10th - 12th, 2019 
 
-Hosted by Rosario Experimental and Behavioral Economics Lab - REBEL 
+Hosted by <a href="http://www.urosario.edu.co/rebel" target="_blank"> Rosario Experimental and Behavioral Economics Lab - REBEL </a> 
 
-With the support from IFREE and Universidad del Rosario
+With the support from <a href="http://ifreeweb.org/" target="_blank"> IFREE </a> 
+and <a href="http://www.urosario.edu.co/Facultad-de-Economia/Inicio/" target="_blank"> Universidad del Rosario </a>
 
 ## Keynote Speakers
 
