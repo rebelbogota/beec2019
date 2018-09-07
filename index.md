@@ -2,9 +2,7 @@
 
 ## Bogotá Experimental Economics Conference - 2019 
 
-Please join us in the Second Edition of BEEC
-
-Call for paper coming (very) soon!
+Please join us in the Second Edition of BEEC. The call for papers is coming (very) soon!
 
 _When?_ January 10th - 12th, 2019 
 
