@@ -14,4 +14,4 @@ Hosted by REBEL @Universidad del Rosario
 ![Andreoni](http://econweb.ucsd.edu/~jandreon/Andreoni%20Photo%20(592x800).jpg)
 
 ### [Andrew Schotter - NYU](https://as.nyu.edu/content/nyu-as/as/faculty/andrew-schotter.html)
-![Schotter](http://as.nyu.edu/object/AndrewSchotter.html)
+![Schotter](http://furconference.org/wp-content/uploads/2017/12/Andrew-Schotter.jpg)
