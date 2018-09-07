@@ -1,8 +1,9 @@
-## Save the Date:
+## Save the Date
 
 # Bogotá Experimental Economics Conference - 2019 Edition
 
-## January 10th - 12th @Universidad del Rosario
+January 10th - 12th 
+Hosted by REBEL @Universidad del Rosario
 
 # Keynote Speakers
 
