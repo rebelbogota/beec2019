@@ -1,11 +1,11 @@
-## Save the Date
+# Save the Date
 
-# Bogotá Experimental Economics Conference - 2019 Edition
+## Bogotá Experimental Economics Conference - 2019 Edition
 
 January 10th - 12th 
 Hosted by REBEL @Universidad del Rosario
 
-# Keynote Speakers
+## Keynote Speakers
 
 ### [Leeat Yariv - Princeton](http://lyariv.mycpanel.princeton.edu//)
 ![Yariv](http://lyariv.mycpanel.princeton.edu//images/profile.jpg | width=100)
