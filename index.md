@@ -8,10 +8,10 @@ Hosted by REBEL @Universidad del Rosario
 # Keynote Speakers
 
 ### [Leeat Yariv - Princeton](http://lyariv.mycpanel.princeton.edu//)
-![Yariv](http://lyariv.mycpanel.princeton.edu//images/profile.jpg)
+![Yariv](http://lyariv.mycpanel.princeton.edu//images/profile.jpg | width=100)
 
 ### [James Andreoni - UC San Diego](http://econweb.ucsd.edu/~jandreon/)
-![Andreoni](http://econweb.ucsd.edu/~jandreon/Andreoni%20Photo%20(592x800).jpg)
+![Andreoni](http://econweb.ucsd.edu/~jandreon/Andreoni%20Photo%20(592x800).jpg | width=100)
 
 ### [Andrew Schotter - NYU](https://as.nyu.edu/content/nyu-as/as/faculty/andrew-schotter.html)
-![Schotter](http://furconference.org/wp-content/uploads/2017/12/Andrew-Schotter.jpg)
+![Schotter](http://furconference.org/wp-content/uploads/2017/12/Andrew-Schotter.jpg | width=100)
