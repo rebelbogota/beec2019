@@ -9,6 +9,7 @@ Hosted by REBEL @Universidad del Rosario
 
 ### [Leeat Yariv - Princeton](http://lyariv.mycpanel.princeton.edu//)
 ![Yariv](http://lyariv.mycpanel.princeton.edu//images/profile.jpg | width=100)
+<img src="http://lyariv.mycpanel.princeton.edu//images/profile.jpg" alt="yariv" width="200"/>
 
 ### [James Andreoni - UC San Diego](http://econweb.ucsd.edu/~jandreon/)
 ![Andreoni](http://econweb.ucsd.edu/~jandreon/Andreoni%20Photo%20(592x800).jpg | width=100)
