@@ -2,8 +2,10 @@
 
 ## Bogotá Experimental Economics Conference - 2019 Edition
 
-January 10th - 12th, 2019 
+_When?_ January 10th - 12th, 2019 
+
 Hosted by Rosario Experimental and Behavioral Economics Lab - REBEL 
+
 With the support from IFREE and Universidad del Rosario
 
 ## Keynote Speakers
