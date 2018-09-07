@@ -7,7 +7,7 @@ Hosted by REBEL @Universidad del Rosario
 
 ## Keynote Speakers
 
-### [Leeat Yariv - Princeton](http://lyariv.mycpanel.princeton.edu//)
+### <a href="http://lyariv.mycpanel.princeton.edu//" target="_blank"> Leeat Yariv - Princeton </a>
 <img src="http://lyariv.mycpanel.princeton.edu//images/profile.jpg" alt="Yariv" width="200"/>
 
 ### [James Andreoni - UC San Diego](http://econweb.ucsd.edu/~jandreon/)
