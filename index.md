@@ -21,3 +21,6 @@ and <a href="http://www.urosario.edu.co/Facultad-de-Economia/Inicio/" target="_b
 
 ### <a href="https://as.nyu.edu/content/nyu-as/as/faculty/andrew-schotter.html" target="_blank"> Andrew Schotter - NYU </a>
 <img src="http://furconference.org/wp-content/uploads/2017/12/Andrew-Schotter.jpg" alt="Schotter" width="200"/>
+
+### Contact
+rebel@urosario.edu.co
