@@ -11,7 +11,7 @@ Hosted by <a href="http://www.urosario.edu.co/rebel" target="_blank"> Rosario Ex
 With the support from <a href="http://ifreeweb.org/" target="_blank"> IFREE </a> 
 and <a href="http://www.urosario.edu.co/Facultad-de-Economia/Inicio/" target="_blank"> Universidad del Rosario </a>.
 
-Prior to the Conference, we will host the Bogotá Experimental Economics Workshop - BEEW 2019.
+Prior to the Conference, we will host the [Bogotá Experimental Economics Workshop - BEEW 2019.](BEEW2019)
 
 ## Keynote Speakers
 
