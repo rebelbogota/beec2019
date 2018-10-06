@@ -9,7 +9,9 @@ _When?_ January 10th - 12th, 2019
 Hosted by <a href="http://www.urosario.edu.co/rebel" target="_blank"> Rosario Experimental and Behavioral Economics Lab - REBEL </a> 
 
 With the support from <a href="http://ifreeweb.org/" target="_blank"> IFREE </a> 
-and <a href="http://www.urosario.edu.co/Facultad-de-Economia/Inicio/" target="_blank"> Universidad del Rosario </a>
+and <a href="http://www.urosario.edu.co/Facultad-de-Economia/Inicio/" target="_blank"> Universidad del Rosario </a>.
+
+Prior to the Conference, we will host the Bogotá Experimental Economics Workshop - BEEW 2019.
 
 ## Keynote Speakers
 
